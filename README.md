@@ -1,4 +1,4 @@
-# A series of machine problems done using C as computational exercises during my 2016-2017 course
+# A series of machine problems done using C as computational exercises during my 2016-2018 courses
 1. String Concerto (Vowels to Asterisks - Inverted; Character Count; OPish)
 2. Tic Tac Toe (User vs PC)
 3. Matrix 
@@ -15,5 +15,7 @@ FILE STRUCTURES
 12. Print It
 13. Transactions
 14. Update Your Status
+
+15. Lexical Analyzer
 
 
